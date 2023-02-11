@@ -1,0 +1,16 @@
+DLLS/
+Lib/
+Library/
+libs/
+Menu/
+Scripts/
+share/
+Tools/
+etc/
+conda-meta/
+.ipynb_checkpoints
+.nonadmin
+api-ms-*
+LICENSE_PYTHON.txt
+untitled.txt
+zlib.dll
